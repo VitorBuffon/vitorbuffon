@@ -55,7 +55,7 @@
   <div style="flex-basis: 48%;">
     <h3>Ferramentas e Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vs/vs-original.svg">
+    <img align="center" alt="VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg">
   </div>
   
   <!-- Habilidades: Bibliotecas -->
