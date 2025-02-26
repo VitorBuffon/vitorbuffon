@@ -3,7 +3,7 @@
 
 <!-- Apresentação -->
 <p align="center">
-  Tecnologo em Análise e Desenvolvimento de Sistemas com foco em Programação Mobile e Segurança da Informação.
+  Tecnólogo em Análise e Desenvolvimento de Sistemas com foco em Programação Mobile e Segurança da Informação.
 </p>
 
 ---
@@ -11,7 +11,7 @@
 ### 🚀 Sobre mim  
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas**.  
 - 🔒 Com o objetivo de atuar na área de **Segurança da Informação**.  
-- 💻 Experiência com **desenvolvimento web (front-end e back-end), banco de dados, programação .net Maui e C#**.  
+- 💻 Experiência com **desenvolvimento web (front-end e back-end), banco de dados, programação .NET MAUI e C#**.  
 - 🌎 Inglês básico, em processo de aprimoramento.  
 - 🎮 Interesses incluem **tecnologia, leitura, jogos e filmes**.  
 
