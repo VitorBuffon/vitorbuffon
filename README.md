@@ -9,9 +9,9 @@
 ---
 
 ### 🚀 Sobre mim  
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**.  
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas**.  
 - 🔒 Com o objetivo de atuar na área de **Segurança da Informação**.  
-- 💻 Experiência com **desenvolvimento web (front-end e back-end), banco de dados e design**.  
+- 💻 Experiência com **desenvolvimento web (front-end e back-end), banco de dados, programação .net Maui e C#**.  
 - 🌎 Inglês básico, em processo de aprimoramento.  
 - 🎮 Interesses incluem **tecnologia, leitura, jogos e filmes**.  
 
