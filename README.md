@@ -30,7 +30,7 @@
 
 <!-- Portfólio -->
 ## Portfólio:
-- [Desenvolvimento Desktop - Ecopark Manager}(https://github.com/VitorBuffon/Ecopark-Manager)
+- [Desenvolvimento Desktop - Ecopark Manager](https://github.com/VitorBuffon/Ecopark-Manager)
 
 <!-- GIF -->
 <p align="left">
