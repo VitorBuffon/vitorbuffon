@@ -1,18 +1,17 @@
 <!-- Título -->
-<h1 align="center">Olá, eu sou Vitor Buffon!</h1>
+<h1 align="center">Vitor Buffon</h1>
 
 <!-- Apresentação -->
 <p align="center">
-  Tecnólogo em Análise e Desenvolvimento de Sistemas com foco em Programação Mobile e Segurança da Informação.
+  Tecnólogo em Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento C#/.NET e web.
 </p>
 
 ---
 
 ### 🚀 Sobre mim  
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas**.  
-- 🔒 Com o objetivo de atuar na área de **Segurança da Informação**.  
-- 💻 Experiência com **desenvolvimento web (front-end e back-end), banco de dados, programação .NET MAUI e C#**.  
-- 🌎 Inglês básico, em processo de aprimoramento.  
+- 💻 Experiência com **desenvolvimento web (front-end e back-end), banco de dados, C# e .NET (incluindo .NET MAUI)**.  
+- 🔒 Estudando **Segurança da Informação** como próximo passo de carreira.  
 - 🎮 Interesses incluem **tecnologia, leitura, jogos e filmes**.  
 
 ---
@@ -25,6 +24,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" alt=".NET" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQL" width="40" height="40"/>
 </div>
@@ -40,8 +40,7 @@
 ---
 
 ### 🌍 Conecte-se comigo  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vitor-buffon-2200221b7)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitorbuffon/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vitor-buffon-2200221b7)
 
 ---
 
@@ -51,4 +50,4 @@
 ---
 
 ### 📂 Projetos  
-- [💻 Desenvolvimento Desktop - Ecopark Manager](https://github.com/VitorBuffon/Ecopark-Manager)
+- [💻 Ecopark Manager](https://github.com/VitorBuffon/Ecopark-Manager) — sistema desktop (C#/.NET) para gestão de um parque eco-turístico.
